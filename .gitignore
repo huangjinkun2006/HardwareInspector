@@ -1,0 +1,14 @@
+# Build artifacts (distributed via GitHub Releases, not git)
+build/Hardware Inspector.app/
+build/HardwareInspector
+build/Hardware Inspector.zip
+build/Hardware-Inspector-*.dmg
+build/hi-*.bin
+build/*-preview.png
+build/codesign.log
+
+# OS
+.DS_Store
+
+# Temp
+/tmp/
