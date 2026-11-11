@@ -1,0 +1,259 @@
+{
+  "note": "品牌图形均取自各项目官方仓库的真实 Logo，非生成式绘制；商标归各自权利人所有。",
+  "fetched": {
+    "apple": {
+      "key": "apple",
+      "color": "#1D1D1F",
+      "source": "Simple Icons (CC0)",
+      "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apple.svg",
+      "svg": "/Users/huangjinkun/WorkBuddy/2026-11-11-09-05-45/HardwareInspector/Assets/BrandSVG/apple.svg",
+      "bytes": 650
+    },
+    "amd": {
+      "key": "amd",
+      "color": "#ED1C24",
+      "source": "Simple Icons (CC0)",
+      "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/amd.svg",
+      "svg": "/Users/huangjinkun/WorkBuddy/2026-11-11-09-05-45/HardwareInspector/Assets/BrandSVG/amd.svg",
+      "bytes": 567
+    },
+    "intel": {
+      "key": "intel",
+      "color": "#0068B5",
+      "source": "Simple Icons (CC0)",
+      "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/intel.svg",
+      "svg": "/Users/huangjinkun/WorkBuddy/2026-11-11-09-05-45/HardwareInspector/Assets/BrandSVG/intel.svg",
+      "bytes": 1817
+    },
+    "nvidia": {
+      "key": "nvidia",
+      "color": "#76B900",
+      "source": "Simple Icons (CC0)",
+      "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nvidia.svg",
+      "svg": "/Users/huangjinkun/WorkBuddy/2026-11-11-09-05-45/HardwareInspector/Assets/BrandSVG/nvidia.svg",
+      "bytes": 881
+    },
+    "asus": {
+      "key": "asus",
+      "color": "#00539B",
+      "source": "Simple Icons (CC0)",
+      "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/asus.svg",
+      "svg": "/Users/huangjinkun/WorkBuddy/2026-11-11-09-05-45/HardwareInspector/Assets/BrandSVG/asus.svg",
+      "bytes": 914
+    },
+    "lenovo": {
+      "key": "lenovo",
+      "color": "#E2231A",
+      "source": "Simple Icons (CC0)",
+      "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/lenovo.svg",
+      "svg": "/Users/huangjinkun/WorkBuddy/2026-11-11-09-05-45/HardwareInspector/Assets/BrandSVG/lenovo.svg",
+      "bytes": 1209
+    },
+    "dell": {
+      "key": "dell",
+      "color": "#007DB8",
+      "source": "Simple Icons (CC0)",
+      "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/dell.svg",
+      "svg": "/Users/huangjinkun/WorkBuddy/2026-11-11-09-05-45/HardwareInspector/Assets/BrandSVG/dell.svg",
+      "bytes": 1450
+    },
+    "hp": {
+      "key": "hp",
+      "color": "#0096D6",
+      "source": "Simple Icons (CC0)",
+      "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/hp.svg",
+      "svg": "/Users/huangjinkun/WorkBuddy/2026-11-11-09-05-45/HardwareInspector/Assets/BrandSVG/hp.svg",
+      "bytes": 641
+    },
+    "acer": {
+      "key": "acer",
+      "color": "#83B81A",
+      "source": "Simple Icons (CC0)",
+      "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/acer.svg",
+      "svg": "/Users/huangjinkun/WorkBuddy/2026-11-11-09-05-45/HardwareInspector/Assets/BrandSVG/acer.svg",
+      "bytes": 1816
+    },
+    "msi": {
+      "key": "msi",
+      "color": "#D71920",
+      "source": "Simple Icons (CC0)",
+      "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/msi.svg",
+      "svg": "/Users/huangjinkun/WorkBuddy/2026-11-11-09-05-45/HardwareInspector/Assets/BrandSVG/msi.svg",
+      "bytes": 8282
+    },
+    "razer": {
+      "key": "razer",
+      "color": "#2FB62C",
+      "source": "Simple Icons (CC0)",
+      "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/razer.svg",
+      "svg": "/Users/huangjinkun/WorkBuddy/2026-11-11-09-05-45/HardwareInspector/Assets/BrandSVG/razer.svg",
+      "bytes": 7200
+    },
+    "huawei": {
+      "key": "huawei",
+      "color": "#CF0A2C",
+      "source": "Simple Icons (CC0)",
+      "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/huawei.svg",
+      "svg": "/Users/huangjinkun/WorkBuddy/2026-11-11-09-05-45/HardwareInspector/Assets/BrandSVG/huawei.svg",
+      "bytes": 1323
+    },
+    "xiaomi": {
+      "key": "xiaomi",
+      "color": "#FF6900",
+      "source": "Simple Icons (CC0)",
+      "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/xiaomi.svg",
+      "svg": "/Users/huangjinkun/WorkBuddy/2026-11-11-09-05-45/HardwareInspector/Assets/BrandSVG/xiaomi.svg",
+      "bytes": 903
+    },
+    "microsoft": {
+      "key": "microsoft",
+      "color": "original",
+      "source": "gilbarbara/logos (官方品牌矢量)",
+      "url": "https://raw.githubusercontent.com/gilbarbara/logos/main/logos/microsoft.svg",
+      "svg": "/Users/huangjinkun/WorkBuddy/2026-11-11-09-05-45/HardwareInspector/Assets/BrandSVG/microsoft.svg",
+      "bytes": 9560
+    },
+    "samsung": {
+      "key": "samsung",
+      "color": "#1428A0",
+      "source": "Simple Icons (CC0)",
+      "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/samsung.svg",
+      "svg": "/Users/huangjinkun/WorkBuddy/2026-11-11-09-05-45/HardwareInspector/Assets/BrandSVG/samsung.svg",
+      "bytes": 2287
+    },
+    "lg": {
+      "key": "lg",
+      "color": "#C6002F",
+      "source": "Simple Icons 9.21.0 (CC0)",
+      "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/9.21.0/icons/lg.svg",
+      "svg": "/Users/huangjinkun/WorkBuddy/2026-11-11-09-05-45/HardwareInspector/Assets/BrandSVG/lg.svg",
+      "bytes": 983
+    },
+    "sony": {
+      "key": "sony",
+      "color": "#1D1D1F",
+      "source": "Simple Icons (CC0)",
+      "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/sony.svg",
+      "svg": "/Users/huangjinkun/WorkBuddy/2026-11-11-09-05-45/HardwareInspector/Assets/BrandSVG/sony.svg",
+      "bytes": 2745
+    },
+    "toshiba": {
+      "key": "toshiba",
+      "color": "#E60012",
+      "source": "Simple Icons (CC0)",
+      "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/toshiba.svg",
+      "svg": "/Users/huangjinkun/WorkBuddy/2026-11-11-09-05-45/HardwareInspector/Assets/BrandSVG/toshiba.svg",
+      "bytes": 1612
+    },
+    "micron": {
+      "key": "micron",
+      "color": "#0B2E73",
+      "source": "gilbarbara/logos (官方品牌矢量)",
+      "url": "https://raw.githubusercontent.com/gilbarbara/logos/main/logos/micron.svg",
+      "svg": "/Users/huangjinkun/WorkBuddy/2026-11-11-09-05-45/HardwareInspector/Assets/BrandSVG/micron.svg",
+      "bytes": 3888
+    },
+    "skhynix": {
+      "key": "skhynix",
+      "color": "#E3001B",
+      "source": "gilbarbara/logos (官方品牌矢量)",
+      "url": "https://raw.githubusercontent.com/gilbarbara/logos/main/logos/sk-hynix.svg",
+      "svg": "/Users/huangjinkun/WorkBuddy/2026-11-11-09-05-45/HardwareInspector/Assets/BrandSVG/skhynix.svg",
+      "bytes": 7998
+    },
+    "kingston": {
+      "key": "kingston",
+      "color": "#C8102E",
+      "source": "Simple Icons (CC0)",
+      "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/kingstontechnology.svg",
+      "svg": "/Users/huangjinkun/WorkBuddy/2026-11-11-09-05-45/HardwareInspector/Assets/BrandSVG/kingston.svg",
+      "bytes": 2803
+    },
+    "corsair": {
+      "key": "corsair",
+      "color": "#B98A0B",
+      "source": "Simple Icons (CC0)",
+      "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/corsair.svg",
+      "svg": "/Users/huangjinkun/WorkBuddy/2026-11-11-09-05-45/HardwareInspector/Assets/BrandSVG/corsair.svg",
+      "bytes": 766
+    },
+    "wd": {
+      "key": "wd",
+      "color": "#0071C5",
+      "source": "Simple Icons 9.21.0 (CC0)",
+      "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/9.21.0/icons/westerndigital.svg",
+      "svg": "/Users/huangjinkun/WorkBuddy/2026-11-11-09-05-45/HardwareInspector/Assets/BrandSVG/wd.svg",
+      "bytes": 868
+    },
+    "seagate": {
+      "key": "seagate",
+      "color": "#4E9B26",
+      "source": "Simple Icons (CC0)",
+      "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/seagate.svg",
+      "svg": "/Users/huangjinkun/WorkBuddy/2026-11-11-09-05-45/HardwareInspector/Assets/BrandSVG/seagate.svg",
+      "bytes": 2392
+    },
+    "sandisk": {
+      "key": "sandisk",
+      "color": "#E31837",
+      "source": "Simple Icons 9.21.0 (CC0)",
+      "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/9.21.0/icons/sandisk.svg",
+      "svg": "/Users/huangjinkun/WorkBuddy/2026-11-11-09-05-45/HardwareInspector/Assets/BrandSVG/sandisk.svg",
+      "bytes": 5333
+    },
+    "qualcomm": {
+      "key": "qualcomm",
+      "color": "#3253DC",
+      "source": "Simple Icons (CC0)",
+      "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/qualcomm.svg",
+      "svg": "/Users/huangjinkun/WorkBuddy/2026-11-11-09-05-45/HardwareInspector/Assets/BrandSVG/qualcomm.svg",
+      "bytes": 760
+    },
+    "broadcom": {
+      "key": "broadcom",
+      "color": "#E31837",
+      "source": "Simple Icons (CC0)",
+      "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/broadcom.svg",
+      "svg": "/Users/huangjinkun/WorkBuddy/2026-11-11-09-05-45/HardwareInspector/Assets/BrandSVG/broadcom.svg",
+      "bytes": 1156
+    },
+    "opencore": {
+      "key": "opencore",
+      "color": "original",
+      "source": "Acidanthera OpenCorePkg 官方 Logo",
+      "url": "https://raw.githubusercontent.com/acidanthera/OpenCorePkg/master/Docs/Logos/LogoApprox.svg",
+      "svg": "/Users/huangjinkun/WorkBuddy/2026-11-11-09-05-45/HardwareInspector/Assets/BrandSVG/opencore.svg",
+      "bytes": 3859
+    },
+    "vmware": {
+      "key": "vmware",
+      "color": "#607078",
+      "source": "Simple Icons (CC0)",
+      "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/vmware.svg",
+      "svg": "/Users/huangjinkun/WorkBuddy/2026-11-11-09-05-45/HardwareInspector/Assets/BrandSVG/vmware.svg",
+      "bytes": 2167
+    },
+    "framework": {
+      "key": "framework",
+      "color": "#1D1D1F",
+      "source": "Simple Icons (CC0)",
+      "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/framework.svg",
+      "svg": "/Users/huangjinkun/WorkBuddy/2026-11-11-09-05-45/HardwareInspector/Assets/BrandSVG/framework.svg",
+      "bytes": 1088
+    }
+  },
+  "missing": [
+    "asrock",
+    "boe",
+    "crucial",
+    "gigabyte",
+    "philips",
+    "realtek"
+  ],
+  "license": {
+    "Simple Icons": "CC0-1.0",
+    "gilbarbara/logos": "CC0 / 各商标归权利人",
+    "Super Tiny Icons": "CC0",
+    "OpenCorePkg": "BSD-3-Clause，Logo 归 Acidanthera"
+  }
+}
