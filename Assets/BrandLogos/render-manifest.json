@@ -1,0 +1,182 @@
+[
+  {
+    "key": "acer",
+    "svg": "/Users/huangjinkun/WorkBuddy/2026-11-11-09-05-45/HardwareInspector/Assets/BrandSVG/acer.svg",
+    "color": "#83B81A",
+    "out": "/Users/huangjinkun/WorkBuddy/2026-11-11-09-05-45/HardwareInspector/Assets/BrandLogos/acer.png"
+  },
+  {
+    "key": "amd",
+    "svg": "/Users/huangjinkun/WorkBuddy/2026-11-11-09-05-45/HardwareInspector/Assets/BrandSVG/amd.svg",
+    "color": "#ED1C24",
+    "out": "/Users/huangjinkun/WorkBuddy/2026-11-11-09-05-45/HardwareInspector/Assets/BrandLogos/amd.png"
+  },
+  {
+    "key": "apple",
+    "svg": "/Users/huangjinkun/WorkBuddy/2026-11-11-09-05-45/HardwareInspector/Assets/BrandSVG/apple.svg",
+    "color": "#1D1D1F",
+    "out": "/Users/huangjinkun/WorkBuddy/2026-11-11-09-05-45/HardwareInspector/Assets/BrandLogos/apple.png"
+  },
+  {
+    "key": "asus",
+    "svg": "/Users/huangjinkun/WorkBuddy/2026-11-11-09-05-45/HardwareInspector/Assets/BrandSVG/asus.svg",
+    "color": "#00539B",
+    "out": "/Users/huangjinkun/WorkBuddy/2026-11-11-09-05-45/HardwareInspector/Assets/BrandLogos/asus.png"
+  },
+  {
+    "key": "broadcom",
+    "svg": "/Users/huangjinkun/WorkBuddy/2026-11-11-09-05-45/HardwareInspector/Assets/BrandSVG/broadcom.svg",
+    "color": "#E31837",
+    "out": "/Users/huangjinkun/WorkBuddy/2026-11-11-09-05-45/HardwareInspector/Assets/BrandLogos/broadcom.png"
+  },
+  {
+    "key": "corsair",
+    "svg": "/Users/huangjinkun/WorkBuddy/2026-11-11-09-05-45/HardwareInspector/Assets/BrandSVG/corsair.svg",
+    "color": "#B98A0B",
+    "out": "/Users/huangjinkun/WorkBuddy/2026-11-11-09-05-45/HardwareInspector/Assets/BrandLogos/corsair.png"
+  },
+  {
+    "key": "dell",
+    "svg": "/Users/huangjinkun/WorkBuddy/2026-11-11-09-05-45/HardwareInspector/Assets/BrandSVG/dell.svg",
+    "color": "#007DB8",
+    "out": "/Users/huangjinkun/WorkBuddy/2026-11-11-09-05-45/HardwareInspector/Assets/BrandLogos/dell.png"
+  },
+  {
+    "key": "framework",
+    "svg": "/Users/huangjinkun/WorkBuddy/2026-11-11-09-05-45/HardwareInspector/Assets/BrandSVG/framework.svg",
+    "color": "#1D1D1F",
+    "out": "/Users/huangjinkun/WorkBuddy/2026-11-11-09-05-45/HardwareInspector/Assets/BrandLogos/framework.png"
+  },
+  {
+    "key": "hp",
+    "svg": "/Users/huangjinkun/WorkBuddy/2026-11-11-09-05-45/HardwareInspector/Assets/BrandSVG/hp.svg",
+    "color": "#0096D6",
+    "out": "/Users/huangjinkun/WorkBuddy/2026-11-11-09-05-45/HardwareInspector/Assets/BrandLogos/hp.png"
+  },
+  {
+    "key": "huawei",
+    "svg": "/Users/huangjinkun/WorkBuddy/2026-11-11-09-05-45/HardwareInspector/Assets/BrandSVG/huawei.svg",
+    "color": "#CF0A2C",
+    "out": "/Users/huangjinkun/WorkBuddy/2026-11-11-09-05-45/HardwareInspector/Assets/BrandLogos/huawei.png"
+  },
+  {
+    "key": "intel",
+    "svg": "/Users/huangjinkun/WorkBuddy/2026-11-11-09-05-45/HardwareInspector/Assets/BrandSVG/intel.svg",
+    "color": "#0068B5",
+    "out": "/Users/huangjinkun/WorkBuddy/2026-11-11-09-05-45/HardwareInspector/Assets/BrandLogos/intel.png"
+  },
+  {
+    "key": "kingston",
+    "svg": "/Users/huangjinkun/WorkBuddy/2026-11-11-09-05-45/HardwareInspector/Assets/BrandSVG/kingston.svg",
+    "color": "#C8102E",
+    "out": "/Users/huangjinkun/WorkBuddy/2026-11-11-09-05-45/HardwareInspector/Assets/BrandLogos/kingston.png"
+  },
+  {
+    "key": "lenovo",
+    "svg": "/Users/huangjinkun/WorkBuddy/2026-11-11-09-05-45/HardwareInspector/Assets/BrandSVG/lenovo.svg",
+    "color": "#E2231A",
+    "out": "/Users/huangjinkun/WorkBuddy/2026-11-11-09-05-45/HardwareInspector/Assets/BrandLogos/lenovo.png"
+  },
+  {
+    "key": "lg",
+    "svg": "/Users/huangjinkun/WorkBuddy/2026-11-11-09-05-45/HardwareInspector/Assets/BrandSVG/lg.svg",
+    "color": "#C6002F",
+    "out": "/Users/huangjinkun/WorkBuddy/2026-11-11-09-05-45/HardwareInspector/Assets/BrandLogos/lg.png"
+  },
+  {
+    "key": "micron",
+    "svg": "/Users/huangjinkun/WorkBuddy/2026-11-11-09-05-45/HardwareInspector/Assets/BrandSVG/micron.svg",
+    "color": "#0B2E73",
+    "out": "/Users/huangjinkun/WorkBuddy/2026-11-11-09-05-45/HardwareInspector/Assets/BrandLogos/micron.png"
+  },
+  {
+    "key": "microsoft",
+    "svg": "/Users/huangjinkun/WorkBuddy/2026-11-11-09-05-45/HardwareInspector/Assets/BrandSVG/microsoft.svg",
+    "color": "original",
+    "out": "/Users/huangjinkun/WorkBuddy/2026-11-11-09-05-45/HardwareInspector/Assets/BrandLogos/microsoft.png"
+  },
+  {
+    "key": "msi",
+    "svg": "/Users/huangjinkun/WorkBuddy/2026-11-11-09-05-45/HardwareInspector/Assets/BrandSVG/msi.svg",
+    "color": "#D71920",
+    "out": "/Users/huangjinkun/WorkBuddy/2026-11-11-09-05-45/HardwareInspector/Assets/BrandLogos/msi.png"
+  },
+  {
+    "key": "nvidia",
+    "svg": "/Users/huangjinkun/WorkBuddy/2026-11-11-09-05-45/HardwareInspector/Assets/BrandSVG/nvidia.svg",
+    "color": "#76B900",
+    "out": "/Users/huangjinkun/WorkBuddy/2026-11-11-09-05-45/HardwareInspector/Assets/BrandLogos/nvidia.png"
+  },
+  {
+    "key": "opencore",
+    "svg": "/Users/huangjinkun/WorkBuddy/2026-11-11-09-05-45/HardwareInspector/Assets/BrandSVG/opencore.svg",
+    "color": "original",
+    "out": "/Users/huangjinkun/WorkBuddy/2026-11-11-09-05-45/HardwareInspector/Assets/BrandLogos/opencore.png"
+  },
+  {
+    "key": "qualcomm",
+    "svg": "/Users/huangjinkun/WorkBuddy/2026-11-11-09-05-45/HardwareInspector/Assets/BrandSVG/qualcomm.svg",
+    "color": "#3253DC",
+    "out": "/Users/huangjinkun/WorkBuddy/2026-11-11-09-05-45/HardwareInspector/Assets/BrandLogos/qualcomm.png"
+  },
+  {
+    "key": "razer",
+    "svg": "/Users/huangjinkun/WorkBuddy/2026-11-11-09-05-45/HardwareInspector/Assets/BrandSVG/razer.svg",
+    "color": "#2FB62C",
+    "out": "/Users/huangjinkun/WorkBuddy/2026-11-11-09-05-45/HardwareInspector/Assets/BrandLogos/razer.png"
+  },
+  {
+    "key": "samsung",
+    "svg": "/Users/huangjinkun/WorkBuddy/2026-11-11-09-05-45/HardwareInspector/Assets/BrandSVG/samsung.svg",
+    "color": "#1428A0",
+    "out": "/Users/huangjinkun/WorkBuddy/2026-11-11-09-05-45/HardwareInspector/Assets/BrandLogos/samsung.png"
+  },
+  {
+    "key": "sandisk",
+    "svg": "/Users/huangjinkun/WorkBuddy/2026-11-11-09-05-45/HardwareInspector/Assets/BrandSVG/sandisk.svg",
+    "color": "#E31837",
+    "out": "/Users/huangjinkun/WorkBuddy/2026-11-11-09-05-45/HardwareInspector/Assets/BrandLogos/sandisk.png"
+  },
+  {
+    "key": "seagate",
+    "svg": "/Users/huangjinkun/WorkBuddy/2026-11-11-09-05-45/HardwareInspector/Assets/BrandSVG/seagate.svg",
+    "color": "#4E9B26",
+    "out": "/Users/huangjinkun/WorkBuddy/2026-11-11-09-05-45/HardwareInspector/Assets/BrandLogos/seagate.png"
+  },
+  {
+    "key": "skhynix",
+    "svg": "/Users/huangjinkun/WorkBuddy/2026-11-11-09-05-45/HardwareInspector/Assets/BrandSVG/skhynix.svg",
+    "color": "#E3001B",
+    "out": "/Users/huangjinkun/WorkBuddy/2026-11-11-09-05-45/HardwareInspector/Assets/BrandLogos/skhynix.png"
+  },
+  {
+    "key": "sony",
+    "svg": "/Users/huangjinkun/WorkBuddy/2026-11-11-09-05-45/HardwareInspector/Assets/BrandSVG/sony.svg",
+    "color": "#1D1D1F",
+    "out": "/Users/huangjinkun/WorkBuddy/2026-11-11-09-05-45/HardwareInspector/Assets/BrandLogos/sony.png"
+  },
+  {
+    "key": "toshiba",
+    "svg": "/Users/huangjinkun/WorkBuddy/2026-11-11-09-05-45/HardwareInspector/Assets/BrandSVG/toshiba.svg",
+    "color": "#E60012",
+    "out": "/Users/huangjinkun/WorkBuddy/2026-11-11-09-05-45/HardwareInspector/Assets/BrandLogos/toshiba.png"
+  },
+  {
+    "key": "vmware",
+    "svg": "/Users/huangjinkun/WorkBuddy/2026-11-11-09-05-45/HardwareInspector/Assets/BrandSVG/vmware.svg",
+    "color": "#607078",
+    "out": "/Users/huangjinkun/WorkBuddy/2026-11-11-09-05-45/HardwareInspector/Assets/BrandLogos/vmware.png"
+  },
+  {
+    "key": "wd",
+    "svg": "/Users/huangjinkun/WorkBuddy/2026-11-11-09-05-45/HardwareInspector/Assets/BrandSVG/wd.svg",
+    "color": "#0071C5",
+    "out": "/Users/huangjinkun/WorkBuddy/2026-11-11-09-05-45/HardwareInspector/Assets/BrandLogos/wd.png"
+  },
+  {
+    "key": "xiaomi",
+    "svg": "/Users/huangjinkun/WorkBuddy/2026-11-11-09-05-45/HardwareInspector/Assets/BrandSVG/xiaomi.svg",
+    "color": "#FF6900",
+    "out": "/Users/huangjinkun/WorkBuddy/2026-11-11-09-05-45/HardwareInspector/Assets/BrandLogos/xiaomi.png"
+  }
+]
