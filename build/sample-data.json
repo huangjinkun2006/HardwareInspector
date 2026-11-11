@@ -1,0 +1,1867 @@
+{
+  "brands" : [
+    {
+      "category" : "整机 / 机型",
+      "key" : "apple",
+      "model" : "MacBook Pro（MacBookPro16,2，模拟机型）",
+      "name" : "Apple",
+      "note" : "OpenCore 模拟机型，非原厂硬件",
+      "source" : "SMBIOS Type 1 · hw.model"
+    },
+    {
+      "category" : "引导固件",
+      "key" : "opencore",
+      "model" : "Acidanthera OpenCore 2087.0.0.0.0",
+      "name" : "OpenCore / Acidanthera",
+      "source" : "SMBIOS Type 0"
+    },
+    {
+      "category" : "物理整机（疑似）",
+      "key" : "asus",
+      "model" : "A32-K55",
+      "name" : "华硕 ASUS",
+      "note" : "置信度低，仅供参考",
+      "source" : "IOKit 电池 · SPPowerDataType"
+    },
+    {
+      "category" : "处理器",
+      "key" : "amd",
+      "model" : "AMD Ryzen™ 7 4800H",
+      "name" : "AMD",
+      "source" : "machdep.cpu.brand_string · SMBIOS Type 4"
+    },
+    {
+      "category" : "显卡",
+      "key" : "nvidia",
+      "model" : "NVIDIA GeForce RTX 2060",
+      "name" : "NVIDIA",
+      "source" : "SPDisplaysDataType"
+    },
+    {
+      "category" : "显卡",
+      "key" : "amd",
+      "model" : "AMD Radeon RX Graphics",
+      "name" : "AMD",
+      "source" : "SPDisplaysDataType"
+    },
+    {
+      "category" : "内存",
+      "key" : "micron",
+      "model" : "8 GB DDR4 3200 MHz",
+      "name" : "美光 Micron",
+      "source" : "SPMemoryDataType"
+    },
+    {
+      "category" : "存储",
+      "key" : "wd",
+      "model" : "WDC PC SN530 SDBPNPZ-512G-1002、WD Blue SN570 1TB SSD、WDC WD10SPCX-21KHST0",
+      "name" : "西部数据 WD",
+      "source" : "SPStorageDataType"
+    },
+    {
+      "category" : "电池",
+      "key" : "asus",
+      "model" : "ASUS A32-K55",
+      "name" : "华硕 ASUS",
+      "source" : "SPPowerDataType"
+    },
+    {
+      "category" : "显示器件",
+      "key" : "asus",
+      "model" : "VE198",
+      "name" : "华硕 ASUS",
+      "source" : "SPDisplaysDataType · EDID"
+    }
+  ],
+  "deviceName" : "MacBook Pro",
+  "generatedAt" : "2026-11-11T04:58:45Z",
+  "groups" : [
+    {
+      "id" : "overview",
+      "sections" : [
+        {
+          "brandKey" : "apple",
+          "items" : [
+            {
+              "label" : "设备名称",
+              "value" : "MacBook Pro"
+            },
+            {
+              "label" : "机型标识",
+              "value" : "MacBookPro16,2"
+            },
+            {
+              "label" : "序列号",
+              "value" : "C02D7CZ7ML7H"
+            },
+            {
+              "label" : "硬件 UUID",
+              "value" : "84581991-6000-4AD2-B8AA-BE4BA5364CA6"
+            },
+            {
+              "label" : "主板 ID",
+              "value" : "Mac-5F9802EFE386AA28"
+            },
+            {
+              "label" : "制造商",
+              "value" : "Acidanthera"
+            },
+            {
+              "label" : "Boot ROM",
+              "value" : "2087.0.0.0.0"
+            },
+            {
+              "label" : "引导器版本",
+              "value" : "583~4793"
+            }
+          ],
+          "title" : "设备标识"
+        },
+        {
+          "items" : [
+            {
+              "label" : "操作系统",
+              "value" : "macOS 26.3 (25D125)"
+            },
+            {
+              "label" : "内核版本",
+              "value" : "Darwin 25.3.0"
+            },
+            {
+              "label" : "编译版本",
+              "value" : "25D125"
+            },
+            {
+              "label" : "启动磁盘",
+              "value" : "macOS Tahoe"
+            },
+            {
+              "label" : "启动模式",
+              "value" : "正常模式"
+            },
+            {
+              "label" : "电脑名称",
+              "value" : "黄锦坤的MacBook Pro"
+            },
+            {
+              "label" : "当前用户",
+              "value" : "黄锦坤 (huangjinkun)"
+            },
+            {
+              "label" : "已运行",
+              "value" : "4 小时 8 分"
+            },
+            {
+              "label" : "本次开机时间",
+              "value" : "2026-11-11 08:49:48"
+            }
+          ],
+          "title" : "运行环境"
+        },
+        {
+          "items" : [
+            {
+              "label" : "CPU 使用率",
+              "value" : "18.0 %"
+            },
+            {
+              "label" : "内存占用",
+              "value" : "13.81 GB / 17.18 GB  ·  80.4 %"
+            },
+            {
+              "label" : "启动盘占用",
+              "value" : "134.84 GB / 204.76 GB  ·  65.9 %"
+            },
+            {
+              "label" : "热压力状态",
+              "value" : "正常"
+            },
+            {
+              "label" : "电池电量",
+              "value" : "100.0 %"
+            },
+            {
+              "hint" : "本版本不读取 SMC 底层传感器，避免对非标准机型造成风险",
+              "label" : "处理器温度",
+              "value" : "—"
+            }
+          ],
+          "title" : "实时状态"
+        }
+      ],
+      "symbol" : "desktopcomputer",
+      "title" : "概览"
+    },
+    {
+      "id" : "brands",
+      "sections" : [
+        {
+          "brandKey" : "apple",
+          "items" : [
+            {
+              "label" : "机型品牌",
+              "value" : "Apple"
+            },
+            {
+              "label" : "产品名称",
+              "value" : "MacBook Pro（MacBookPro16,2，模拟机型）"
+            },
+            {
+              "label" : "机型标识",
+              "value" : "MacBookPro16,2"
+            },
+            {
+              "label" : "产品定位",
+              "value" : "MacBook Pro 16 英寸（2019，Intel）"
+            },
+            {
+              "label" : "设备形态",
+              "value" : "笔记本电脑"
+            },
+            {
+              "label" : "原厂判定",
+              "value" : "非原厂机型 / 模拟机型"
+            },
+            {
+              "label" : "引导固件",
+              "value" : "OpenCore / Acidanthera"
+            },
+            {
+              "hint" : "由器件线索推断，置信度低",
+              "label" : "物理整机线索",
+              "value" : "华硕 ASUS"
+            },
+            {
+              "label" : "识别置信度",
+              "value" : "机型品牌高 / 物理品牌低"
+            },
+            {
+              "label" : "判定说明",
+              "value" : "系统 SMBIOS 由 Acidanthera / OpenCore 注入，模拟为 MacBook Pro（MacBookPro16,2）；处理器为 AMD Ryzen™ 7 4800H，并非 Apple 原厂硬件。物理整机品牌仅由器件线索推断，指向 华硕 ASUS，置信度低。"
+            }
+          ],
+          "title" : "整机身份"
+        },
+        {
+          "items" : [
+            {
+              "label" : "证据 1",
+              "value" : "SMBIOS Type 1 系统制造商：Acidanthera"
+            },
+            {
+              "label" : "证据 2",
+              "value" : "SMBIOS Type 0 BIOS 厂商：Acidanthera"
+            },
+            {
+              "label" : "证据 3",
+              "value" : "SMBIOS 产品名：MacBookPro16,2（MacBook Pro）"
+            },
+            {
+              "label" : "证据 4",
+              "value" : "机型标识：MacBookPro16,2  MacBook Pro 16 英寸（2019，Intel）"
+            },
+            {
+              "label" : "证据 5",
+              "value" : "处理器：AMD Ryzen™ 7 4800H"
+            },
+            {
+              "label" : "证据 6",
+              "value" : "物理整机线索：电池制造商 ASUS（型号 A32-K55）"
+            },
+            {
+              "label" : "证据 7",
+              "value" : "显示器件：HM7606 / VE198"
+            }
+          ],
+          "title" : "识别依据"
+        },
+        {
+          "items" : [
+            {
+              "hint" : "整机 / 机型 · 来源 SMBIOS Type 1 · hw.model · OpenCore 模拟机型，非原厂硬件",
+              "label" : "Apple",
+              "value" : "MacBook Pro（MacBookPro16,2，模拟机型）"
+            },
+            {
+              "hint" : "引导固件 · 来源 SMBIOS Type 0",
+              "label" : "OpenCore / Acidanthera",
+              "value" : "Acidanthera OpenCore 2087.0.0.0.0"
+            },
+            {
+              "hint" : "物理整机（疑似） · 来源 IOKit 电池 · SPPowerDataType · 置信度低，仅供参考",
+              "label" : "华硕 ASUS",
+              "value" : "A32-K55"
+            },
+            {
+              "hint" : "处理器 · 来源 machdep.cpu.brand_string · SMBIOS Type 4",
+              "label" : "AMD",
+              "value" : "AMD Ryzen™ 7 4800H"
+            },
+            {
+              "hint" : "显卡 · 来源 SPDisplaysDataType",
+              "label" : "NVIDIA",
+              "value" : "NVIDIA GeForce RTX 2060"
+            },
+            {
+              "hint" : "显卡 · 来源 SPDisplaysDataType",
+              "label" : "AMD",
+              "value" : "AMD Radeon RX Graphics"
+            },
+            {
+              "hint" : "内存 · 来源 SPMemoryDataType",
+              "label" : "美光 Micron",
+              "value" : "8 GB DDR4 3200 MHz"
+            },
+            {
+              "hint" : "存储 · 来源 SPStorageDataType",
+              "label" : "西部数据 WD",
+              "value" : "WDC PC SN530 SDBPNPZ-512G-1002、WD Blue SN570 1TB SSD、WDC WD10SPCX-21KHST0"
+            },
+            {
+              "hint" : "电池 · 来源 SPPowerDataType",
+              "label" : "华硕 ASUS",
+              "value" : "ASUS A32-K55"
+            },
+            {
+              "hint" : "显示器件 · 来源 SPDisplaysDataType · EDID",
+              "label" : "华硕 ASUS",
+              "value" : "VE198"
+            }
+          ],
+          "title" : "硬件品牌清单（10 项）"
+        }
+      ],
+      "symbol" : "tag",
+      "title" : "品牌识别"
+    },
+    {
+      "id" : "cpu",
+      "sections" : [
+        {
+          "brandKey" : "amd",
+          "items" : [
+            {
+              "label" : "处理器型号",
+              "value" : "AMD Ryzen™ 7 4800H"
+            },
+            {
+              "label" : "架构",
+              "value" : "x86_64"
+            },
+            {
+              "label" : "制造商",
+              "value" : "AuthenticAMD"
+            },
+            {
+              "label" : "标称主频",
+              "value" : "2.9 GHz"
+            },
+            {
+              "label" : "总线频率",
+              "value" : "2.90 GHz"
+            },
+            {
+              "label" : "物理封装",
+              "value" : "1"
+            },
+            {
+              "label" : "物理核心",
+              "value" : "8 核"
+            },
+            {
+              "label" : "逻辑核心",
+              "value" : "16 线程"
+            },
+            {
+              "label" : "超线程",
+              "value" : "已启用"
+            },
+            {
+              "label" : "每核二级缓存",
+              "value" : "512 KB"
+            },
+            {
+              "label" : "三级缓存",
+              "value" : "8 MB"
+            },
+            {
+              "label" : "二级缓存总量",
+              "value" : "524 KB"
+            },
+            {
+              "label" : "缓存行大小",
+              "value" : "64 字节"
+            }
+          ],
+          "title" : "规格"
+        },
+        {
+          "items" : [
+            {
+              "label" : "AES 硬件加速",
+              "value" : "支持"
+            },
+            {
+              "label" : "AVX",
+              "value" : "支持"
+            },
+            {
+              "label" : "AVX2",
+              "value" : "支持"
+            },
+            {
+              "label" : "ARM64",
+              "value" : "不适用"
+            },
+            {
+              "label" : "CPU 特性标志",
+              "value" : "FPU VME DE PSE TSC MSR PAE MCE CX8 APIC SEP MTRR PGE MCA CMOV PAT PSE36 CLFSH MMX FXSR SSE SSE2 HTT SSE3 PCLMULQDQ MON SSSE3 FMA CX16 SSE4.1 SSE4.2 MOVBE POPCNT AES XSAVE OSXSAVE AVX1.0 RDRAND F16C"
+            },
+            {
+              "label" : "扩展特性标志",
+              "value" : "SYSCALL XD 1GBPAGE EM64T LAHF LZCNT PREFETCHW RDTSCP TSCI"
+            },
+            {
+              "label" : "Family / Model",
+              "value" : "23 / 96"
+            }
+          ],
+          "title" : "指令集与特性"
+        },
+        {
+          "items" : [
+            {
+              "label" : "用户态",
+              "value" : "32.1 %"
+            },
+            {
+              "label" : "系统态",
+              "value" : "9.3 %"
+            },
+            {
+              "label" : "空闲",
+              "value" : "58.6 %"
+            },
+            {
+              "label" : "Nice",
+              "value" : "0.0 %"
+            },
+            {
+              "label" : "瞬时采样 (250 ms)",
+              "value" : "18.0 %"
+            },
+            {
+              "label" : "活跃处理器数",
+              "value" : "16 / 16"
+            }
+          ],
+          "title" : "负载统计（自开机累计）"
+        }
+      ],
+      "symbol" : "cpu",
+      "title" : "处理器"
+    },
+    {
+      "id" : "memory",
+      "sections" : [
+        {
+          "items" : [
+            {
+              "label" : "总容量",
+              "value" : "17.18 GB"
+            },
+            {
+              "label" : "已使用",
+              "value" : "13.81 GB  ·  80.4 %"
+            },
+            {
+              "label" : "可回收缓存",
+              "value" : "3.33 GB"
+            },
+            {
+              "label" : "可用",
+              "value" : "3.37 GB"
+            },
+            {
+              "label" : "页面大小",
+              "value" : "4 KB"
+            },
+            {
+              "label" : "内存是否可升级",
+              "value" : "否"
+            },
+            {
+              "label" : "ECC",
+              "value" : "未启用"
+            },
+            {
+              "label" : "交换分区总量",
+              "value" : "7.52 GB"
+            },
+            {
+              "label" : "交换分区已用",
+              "value" : "5.9 GB  ·  已加密"
+            }
+          ],
+          "title" : "内存总览"
+        },
+        {
+          "brandKey" : "micron",
+          "items" : [
+            {
+              "label" : "容量",
+              "value" : "8 GB"
+            },
+            {
+              "label" : "类型",
+              "value" : "DDR4"
+            },
+            {
+              "label" : "频率",
+              "value" : "3200 MHz"
+            },
+            {
+              "label" : "厂商",
+              "value" : "Micron Technology"
+            },
+            {
+              "label" : "部件号",
+              "value" : "4ATF1G64HZ-3G2E1"
+            },
+            {
+              "label" : "序列号",
+              "value" : "27996E03"
+            },
+            {
+              "label" : "状态",
+              "value" : "正常"
+            }
+          ],
+          "title" : "内存条 1  ·  P0 CHANNEL A/DIMM 0"
+        },
+        {
+          "brandKey" : "micron",
+          "items" : [
+            {
+              "label" : "容量",
+              "value" : "8 GB"
+            },
+            {
+              "label" : "类型",
+              "value" : "DDR4"
+            },
+            {
+              "label" : "频率",
+              "value" : "3200 MHz"
+            },
+            {
+              "label" : "厂商",
+              "value" : "Micron Technology"
+            },
+            {
+              "label" : "部件号",
+              "value" : "4ATF1G64HZ-3G2E1"
+            },
+            {
+              "label" : "序列号",
+              "value" : "27996E72"
+            },
+            {
+              "label" : "状态",
+              "value" : "正常"
+            }
+          ],
+          "title" : "内存条 2  ·  P0 CHANNEL B/DIMM 0"
+        },
+        {
+          "items" : [
+            {
+              "label" : "联动内存 (Wired)",
+              "value" : "8.58 GB"
+            },
+            {
+              "label" : "活跃 (Active)",
+              "value" : "3.32 GB"
+            },
+            {
+              "label" : "非活跃 (Inactive)",
+              "value" : "3.32 GB"
+            },
+            {
+              "label" : "压缩内存",
+              "value" : "1.89 GB"
+            },
+            {
+              "label" : "空闲 (Free)",
+              "value" : "54.9 MB"
+            },
+            {
+              "label" : "推测页 (Speculative)",
+              "value" : "13.2 MB"
+            },
+            {
+              "label" : "可清除 (Purgeable)",
+              "value" : "12.6 MB"
+            },
+            {
+              "label" : "内部页 / 外部页",
+              "value" : "1110622 / 514092 页"
+            },
+            {
+              "label" : "换入 / 换出",
+              "value" : "12684341 / 197249 页"
+            },
+            {
+              "label" : "Swap 换入 / 换出",
+              "value" : "18120798 / 19766707 页"
+            },
+            {
+              "label" : "缺页异常",
+              "value" : "1147368757 次"
+            }
+          ],
+          "title" : "虚拟内存明细（页计数换算）"
+        }
+      ],
+      "symbol" : "memorychip",
+      "title" : "内存"
+    },
+    {
+      "id" : "graphics",
+      "sections" : [
+        {
+          "brandKey" : "nvidia",
+          "items" : [
+            {
+              "label" : "名称",
+              "value" : "NVIDIA GeForce RTX 2060"
+            },
+            {
+              "label" : "厂商",
+              "value" : "NVIDIA"
+            },
+            {
+              "label" : "显存",
+              "value" : "6 GB"
+            },
+            {
+              "label" : "设备 ID",
+              "value" : "0x1f15"
+            },
+            {
+              "label" : "修订 ID",
+              "value" : "0x00a1"
+            },
+            {
+              "label" : "总线",
+              "value" : "PCI Express"
+            },
+            {
+              "label" : "链路宽度",
+              "value" : "x8"
+            },
+            {
+              "label" : "Metal 支持",
+              "value" : "Metal 4"
+            }
+          ],
+          "title" : "显卡 1  ·  NVIDIA GeForce RTX 2060"
+        },
+        {
+          "brandKey" : "amd",
+          "items" : [
+            {
+              "label" : "名称",
+              "value" : "AMD Radeon RX Graphics"
+            },
+            {
+              "label" : "厂商",
+              "value" : "AMD"
+            },
+            {
+              "label" : "显存",
+              "value" : "4 GB"
+            },
+            {
+              "label" : "设备 ID",
+              "value" : "0x1636"
+            },
+            {
+              "label" : "修订 ID",
+              "value" : "0x00c6"
+            },
+            {
+              "label" : "总线",
+              "value" : "PCI Express"
+            },
+            {
+              "label" : "链路宽度",
+              "value" : "x16"
+            },
+            {
+              "label" : "Metal 支持",
+              "value" : "Metal 3"
+            }
+          ],
+          "title" : "显卡 2  ·  AMD Radeon RX Graphics"
+        },
+        {
+          "items" : [
+            {
+              "label" : "名称",
+              "value" : "HM7606"
+            },
+            {
+              "label" : "分辨率",
+              "value" : "1920 x 1080 @ 144.00Hz"
+            },
+            {
+              "label" : "像素密度",
+              "value" : "1080p"
+            },
+            {
+              "label" : "连接类型",
+              "value" : "内置显示器"
+            },
+            {
+              "label" : "产品 ID",
+              "value" : "6060"
+            },
+            {
+              "label" : "显示器序列号",
+              "value" : "46821920"
+            },
+            {
+              "label" : "生产年 / 周",
+              "value" : "2023 / 1"
+            }
+          ],
+          "title" : "显示器  ·  HM7606"
+        },
+        {
+          "brandKey" : "asus",
+          "items" : [
+            {
+              "label" : "名称",
+              "value" : "VE198"
+            },
+            {
+              "label" : "分辨率",
+              "value" : "1920 x 1080 @ 60.00Hz"
+            },
+            {
+              "label" : "像素密度",
+              "value" : "1080p"
+            },
+            {
+              "label" : "主显示器",
+              "value" : "是"
+            },
+            {
+              "label" : "产品 ID",
+              "value" : "19ea"
+            },
+            {
+              "label" : "生产年 / 周",
+              "value" : "2014 / 39"
+            }
+          ],
+          "title" : "显示器  ·  VE198"
+        }
+      ],
+      "symbol" : "display",
+      "title" : "显卡与显示"
+    },
+    {
+      "id" : "storage",
+      "sections" : [
+        {
+          "brandKey" : "wd",
+          "items" : [
+            {
+              "label" : "型号",
+              "value" : "WDC PC SN530 SDBPNPZ-512G-1002"
+            },
+            {
+              "label" : "介质名称",
+              "value" : "WDC PC SN530 SDBPNPZ-512G-1002 Media"
+            },
+            {
+              "label" : "介质类型",
+              "value" : "固态硬盘 (SSD)"
+            },
+            {
+              "label" : "接口协议",
+              "value" : "PCI-Express"
+            },
+            {
+              "label" : "内置磁盘",
+              "value" : "是"
+            },
+            {
+              "label" : "分区图",
+              "value" : "GUID 分区表"
+            },
+            {
+              "label" : "SMART 状态",
+              "value" : "正常 (Verified)"
+            }
+          ],
+          "title" : "物理磁盘  ·  WDC PC SN530 SDBPNPZ-512G-1002"
+        },
+        {
+          "brandKey" : "wd",
+          "items" : [
+            {
+              "label" : "型号",
+              "value" : "WD Blue SN570 1TB SSD"
+            },
+            {
+              "label" : "介质名称",
+              "value" : "WD Blue SN570 1TB SSD Media"
+            },
+            {
+              "label" : "介质类型",
+              "value" : "固态硬盘 (SSD)"
+            },
+            {
+              "label" : "接口协议",
+              "value" : "PCI-Express"
+            },
+            {
+              "label" : "内置磁盘",
+              "value" : "是"
+            },
+            {
+              "label" : "分区图",
+              "value" : "GUID 分区表"
+            },
+            {
+              "label" : "SMART 状态",
+              "value" : "正常 (Verified)"
+            }
+          ],
+          "title" : "物理磁盘  ·  WD Blue SN570 1TB SSD"
+        },
+        {
+          "items" : [
+            {
+              "label" : "型号",
+              "value" : "Disk Image"
+            },
+            {
+              "label" : "介质名称",
+              "value" : "AppleAPFSMedia"
+            },
+            {
+              "label" : "接口协议",
+              "value" : "Disk Image"
+            },
+            {
+              "label" : "内置磁盘",
+              "value" : "否"
+            },
+            {
+              "label" : "分区图",
+              "value" : "unknown partition map type"
+            }
+          ],
+          "title" : "物理磁盘  ·  Disk Image"
+        },
+        {
+          "brandKey" : "wd",
+          "items" : [
+            {
+              "label" : "型号",
+              "value" : "WDC WD10SPCX-21KHST0"
+            },
+            {
+              "label" : "介质名称",
+              "value" : "WDC WD10SPCX-21KHST0 Media"
+            },
+            {
+              "label" : "介质类型",
+              "value" : "机械硬盘 (HDD)"
+            },
+            {
+              "label" : "接口协议",
+              "value" : "PCI"
+            },
+            {
+              "label" : "内置磁盘",
+              "value" : "是"
+            },
+            {
+              "label" : "分区图",
+              "value" : "GUID 分区表"
+            },
+            {
+              "label" : "SMART 状态",
+              "value" : "正常 (Verified)"
+            }
+          ],
+          "title" : "物理磁盘  ·  WDC WD10SPCX-21KHST0"
+        },
+        {
+          "items" : [
+            {
+              "label" : "型号",
+              "value" : "DataTraveler 3.0"
+            },
+            {
+              "label" : "介质名称",
+              "value" : "Kingston DataTraveler 3.0 Media"
+            },
+            {
+              "label" : "接口协议",
+              "value" : "USB"
+            },
+            {
+              "label" : "内置磁盘",
+              "value" : "否"
+            },
+            {
+              "label" : "分区图",
+              "value" : "master boot record partition map type"
+            }
+          ],
+          "title" : "物理磁盘  ·  DataTraveler 3.0"
+        },
+        {
+          "items" : [
+            {
+              "label" : "卷名称",
+              "value" : "Win10Home X64"
+            },
+            {
+              "label" : "BSD 设备",
+              "value" : "disk0s4"
+            },
+            {
+              "label" : "文件系统",
+              "value" : "NTFS"
+            },
+            {
+              "label" : "挂载点",
+              "value" : "/Volumes/Win10Home X64"
+            },
+            {
+              "label" : "总容量",
+              "value" : "239.01 GB"
+            },
+            {
+              "label" : "已使用",
+              "value" : "212.47 GB  ·  88.9 %"
+            },
+            {
+              "label" : "可用",
+              "value" : "26.54 GB"
+            },
+            {
+              "label" : "可写",
+              "value" : "否"
+            },
+            {
+              "label" : "卷 UUID",
+              "value" : "3B57B11C-151C-4224-9621-357459017886"
+            }
+          ],
+          "title" : "卷  ·  Win10Home X64"
+        },
+        {
+          "items" : [
+            {
+              "label" : "卷名称",
+              "value" : "软件"
+            },
+            {
+              "label" : "BSD 设备",
+              "value" : "disk0s6"
+            },
+            {
+              "label" : "文件系统",
+              "value" : "NTFS"
+            },
+            {
+              "label" : "挂载点",
+              "value" : "/Volumes/软件"
+            },
+            {
+              "label" : "总容量",
+              "value" : "265.47 GB"
+            },
+            {
+              "label" : "已使用",
+              "value" : "200.1 GB  ·  75.4 %"
+            },
+            {
+              "label" : "可用",
+              "value" : "65.37 GB"
+            },
+            {
+              "label" : "可写",
+              "value" : "否"
+            },
+            {
+              "label" : "卷 UUID",
+              "value" : "9DF272DA-5BDE-42ED-9623-308963094CE9"
+            }
+          ],
+          "title" : "卷  ·  软件"
+        },
+        {
+          "items" : [
+            {
+              "label" : "卷名称",
+              "value" : "娱乐"
+            },
+            {
+              "label" : "BSD 设备",
+              "value" : "disk1s1"
+            },
+            {
+              "label" : "文件系统",
+              "value" : "NTFS"
+            },
+            {
+              "label" : "挂载点",
+              "value" : "/Volumes/娱乐"
+            },
+            {
+              "label" : "总容量",
+              "value" : "794.42 GB"
+            },
+            {
+              "label" : "已使用",
+              "value" : "544.42 GB  ·  68.5 %"
+            },
+            {
+              "label" : "可用",
+              "value" : "250 GB"
+            },
+            {
+              "label" : "可写",
+              "value" : "否"
+            },
+            {
+              "label" : "卷 UUID",
+              "value" : "FEBC7CB4-62A4-41D7-AD9C-A5DB12721D31"
+            }
+          ],
+          "title" : "卷  ·  娱乐"
+        },
+        {
+          "items" : [
+            {
+              "label" : "卷名称",
+              "value" : "macOS Tahoe - 数据"
+            },
+            {
+              "label" : "BSD 设备",
+              "value" : "disk2s1"
+            },
+            {
+              "label" : "文件系统",
+              "value" : "APFS"
+            },
+            {
+              "label" : "挂载点",
+              "value" : "/System/Volumes/Data"
+            },
+            {
+              "label" : "总容量",
+              "value" : "204.76 GB"
+            },
+            {
+              "label" : "已使用",
+              "value" : "134.84 GB  ·  65.9 %"
+            },
+            {
+              "label" : "可用",
+              "value" : "69.92 GB"
+            },
+            {
+              "label" : "可写",
+              "value" : "是"
+            },
+            {
+              "label" : "卷 UUID",
+              "value" : "DBF7D0AB-524C-428E-AC8B-BC0E5A368A6C"
+            }
+          ],
+          "title" : "卷  ·  macOS Tahoe - 数据"
+        },
+        {
+          "items" : [
+            {
+              "label" : "卷名称",
+              "value" : "Creedence11M6270.SECUREPKITRUSTSTOREASSETS_SECUREPKITRUSTSTORE_Cryptex"
+            },
+            {
+              "label" : "BSD 设备",
+              "value" : "disk8s1"
+            },
+            {
+              "label" : "文件系统",
+              "value" : "Case-sensitive APFS"
+            },
+            {
+              "label" : "挂载点",
+              "value" : "/System/Library/AssetsV2/com_apple_MobileAsset_PKITrustStore/purpose_auto/6dd55b0d06633a00de6f57ccb910a66a5ba2409a.asset/.AssetData"
+            },
+            {
+              "label" : "总容量",
+              "value" : "4.2 MB"
+            },
+            {
+              "label" : "已使用",
+              "value" : "1 MB  ·  24.9 %"
+            },
+            {
+              "label" : "可用",
+              "value" : "3.1 MB"
+            },
+            {
+              "label" : "可写",
+              "value" : "否"
+            },
+            {
+              "label" : "卷 UUID",
+              "value" : "A4B97E21-47AA-4E5E-A5D5-1F7563C37536"
+            }
+          ],
+          "title" : "卷  ·  Creedence11M6270.SECUREPKITRUSTSTOREASSETS_SECUREPKITRUSTSTORE_Cryptex"
+        },
+        {
+          "items" : [
+            {
+              "label" : "卷名称",
+              "value" : "微信 WeChat"
+            },
+            {
+              "label" : "BSD 设备",
+              "value" : "disk10s1"
+            },
+            {
+              "label" : "文件系统",
+              "value" : "APFS"
+            },
+            {
+              "label" : "挂载点",
+              "value" : "/Volumes/微信 WeChat"
+            },
+            {
+              "label" : "总容量",
+              "value" : "2.09 GB"
+            },
+            {
+              "label" : "已使用",
+              "value" : "1.52 GB  ·  72.6 %"
+            },
+            {
+              "label" : "可用",
+              "value" : "571.8 MB"
+            },
+            {
+              "label" : "可写",
+              "value" : "否"
+            },
+            {
+              "label" : "卷 UUID",
+              "value" : "F94048F3-00A6-455B-A911-2DCA3069B2B1"
+            }
+          ],
+          "title" : "卷  ·  微信 WeChat"
+        },
+        {
+          "items" : [
+            {
+              "label" : "卷名称",
+              "value" : "EWEADN-E-HUB-3.3.5"
+            },
+            {
+              "label" : "BSD 设备",
+              "value" : "disk12s1"
+            },
+            {
+              "label" : "文件系统",
+              "value" : "APFS"
+            },
+            {
+              "label" : "挂载点",
+              "value" : "/Volumes/EWEADN-E-HUB-3.3.5"
+            },
+            {
+              "label" : "总容量",
+              "value" : "385.3 MB"
+            },
+            {
+              "label" : "已使用",
+              "value" : "296.7 MB  ·  77.0 %"
+            },
+            {
+              "label" : "可用",
+              "value" : "88.5 MB"
+            },
+            {
+              "label" : "可写",
+              "value" : "否"
+            },
+            {
+              "label" : "卷 UUID",
+              "value" : "290AAA9E-2076-4EDA-B85E-578698FCA490"
+            }
+          ],
+          "title" : "卷  ·  EWEADN-E-HUB-3.3.5"
+        },
+        {
+          "items" : [
+            {
+              "label" : "卷名称",
+              "value" : "macOS Tahoe"
+            },
+            {
+              "label" : "BSD 设备",
+              "value" : "disk2s4s1"
+            },
+            {
+              "label" : "文件系统",
+              "value" : "APFS"
+            },
+            {
+              "label" : "挂载点",
+              "value" : "/"
+            },
+            {
+              "label" : "总容量",
+              "value" : "204.76 GB"
+            },
+            {
+              "label" : "已使用",
+              "value" : "134.84 GB  ·  65.9 %"
+            },
+            {
+              "label" : "可用",
+              "value" : "69.92 GB"
+            },
+            {
+              "label" : "可写",
+              "value" : "否"
+            },
+            {
+              "label" : "卷 UUID",
+              "value" : "7A490383-FF17-4B5E-9A8F-1AB4A99827C5"
+            }
+          ],
+          "title" : "卷  ·  macOS Tahoe"
+        },
+        {
+          "items" : [
+            {
+              "label" : "卷名称",
+              "value" : "存储"
+            },
+            {
+              "label" : "BSD 设备",
+              "value" : "disk3s3"
+            },
+            {
+              "label" : "文件系统",
+              "value" : "NTFS"
+            },
+            {
+              "label" : "挂载点",
+              "value" : "/Volumes/存储"
+            },
+            {
+              "label" : "总容量",
+              "value" : "999.87 GB"
+            },
+            {
+              "label" : "已使用",
+              "value" : "915.5 GB  ·  91.6 %"
+            },
+            {
+              "label" : "可用",
+              "value" : "84.37 GB"
+            },
+            {
+              "label" : "可写",
+              "value" : "否"
+            },
+            {
+              "label" : "卷 UUID",
+              "value" : "88E670E4-EA50-4016-913F-84C9883CA238"
+            }
+          ],
+          "title" : "卷  ·  存储"
+        },
+        {
+          "items" : [
+            {
+              "label" : "卷名称",
+              "value" : "金士顿128G"
+            },
+            {
+              "label" : "BSD 设备",
+              "value" : "disk4s1"
+            },
+            {
+              "label" : "文件系统",
+              "value" : "ExFAT"
+            },
+            {
+              "label" : "挂载点",
+              "value" : "/Volumes/金士顿128G"
+            },
+            {
+              "label" : "总容量",
+              "value" : "123.95 GB"
+            },
+            {
+              "label" : "已使用",
+              "value" : "119.07 GB  ·  96.1 %"
+            },
+            {
+              "label" : "可用",
+              "value" : "4.87 GB"
+            },
+            {
+              "label" : "可写",
+              "value" : "是"
+            },
+            {
+              "label" : "卷 UUID",
+              "value" : "4EE99282-3BA2-327C-9E95-720FC25D9E6C"
+            }
+          ],
+          "title" : "卷  ·  金士顿128G"
+        },
+        {
+          "items" : [
+            {
+              "label" : "卷名称",
+              "value" : "GLFriend 1.1"
+            },
+            {
+              "label" : "BSD 设备",
+              "value" : "disk13s1"
+            },
+            {
+              "label" : "文件系统",
+              "value" : "HFS+"
+            },
+            {
+              "label" : "挂载点",
+              "value" : "/Volumes/GLFriend 1.1"
+            },
+            {
+              "label" : "总容量",
+              "value" : "7.8 MB"
+            },
+            {
+              "label" : "已使用",
+              "value" : "4.5 MB  ·  58.0 %"
+            },
+            {
+              "label" : "可用",
+              "value" : "3.3 MB"
+            },
+            {
+              "label" : "可写",
+              "value" : "否"
+            },
+            {
+              "label" : "卷 UUID",
+              "value" : "01E18CB8-A460-35FC-AE53-CD53247B80AD"
+            }
+          ],
+          "title" : "卷  ·  GLFriend 1.1"
+        }
+      ],
+      "symbol" : "internaldrive",
+      "title" : "存储"
+    },
+    {
+      "id" : "power",
+      "sections" : [
+        {
+          "brandKey" : "asus",
+          "items" : [
+            {
+              "label" : "当前电量",
+              "value" : "100.0 %"
+            },
+            {
+              "label" : "充电状态",
+              "value" : "已接通电源"
+            },
+            {
+              "label" : "当前容量",
+              "value" : "2622 mAh"
+            },
+            {
+              "label" : "最大容量",
+              "value" : "2622 mAh"
+            },
+            {
+              "label" : "设计容量",
+              "value" : "4110 mAh"
+            },
+            {
+              "hint" : "低于 80%，建议检修电池",
+              "label" : "健康度",
+              "value" : "63.8 %"
+            },
+            {
+              "label" : "循环次数",
+              "value" : "362 次"
+            },
+            {
+              "label" : "电池温度",
+              "value" : "20.0 °C"
+            },
+            {
+              "label" : "电压",
+              "value" : "12139 mV"
+            },
+            {
+              "label" : "外接电源",
+              "value" : "已连接"
+            }
+          ],
+          "title" : "电池状态 (IOKit · AppleSmartBattery)"
+        },
+        {
+          "brandKey" : "asus",
+          "items" : [
+            {
+              "label" : "电量百分比",
+              "value" : "100 %"
+            },
+            {
+              "label" : "最大容量",
+              "value" : "2622 mAh"
+            },
+            {
+              "label" : "正在充电",
+              "value" : "否"
+            },
+            {
+              "label" : "已充满",
+              "value" : "是"
+            },
+            {
+              "label" : "循环次数",
+              "value" : "362 次"
+            },
+            {
+              "label" : "健康结论",
+              "value" : "建议检修电池"
+            },
+            {
+              "label" : "电池型号",
+              "value" : "A32-K55"
+            },
+            {
+              "label" : "制造商",
+              "value" : "ASUS "
+            },
+            {
+              "label" : "固件版本",
+              "value" : "0000"
+            }
+          ],
+          "title" : "电池信息 (system_profiler)"
+        }
+      ],
+      "symbol" : "battery.100",
+      "title" : "电池与电源"
+    },
+    {
+      "id" : "network",
+      "sections" : [
+        {
+          "items" : [
+            {
+              "label" : "服务名称",
+              "value" : "Ethernet"
+            },
+            {
+              "label" : "BSD 设备",
+              "value" : "en0"
+            },
+            {
+              "label" : "硬件类型",
+              "value" : "Ethernet"
+            },
+            {
+              "label" : "MAC 地址",
+              "value" : "3c:7c:3f:5a:d7:73"
+            },
+            {
+              "label" : "IPv4 配置",
+              "value" : "DHCP"
+            },
+            {
+              "label" : "IPv6 配置",
+              "value" : "自动"
+            },
+            {
+              "label" : "接口状态",
+              "value" : "已启用"
+            },
+            {
+              "label" : "介质子类型",
+              "value" : "自动选择"
+            }
+          ],
+          "title" : "接口  ·  Ethernet"
+        },
+        {
+          "items" : [
+            {
+              "label" : "服务名称",
+              "value" : "Wi-Fi"
+            },
+            {
+              "label" : "BSD 设备",
+              "value" : "en1"
+            },
+            {
+              "label" : "硬件类型",
+              "value" : "AirPort"
+            },
+            {
+              "label" : "MAC 地址",
+              "value" : "84:7b:57:91:6a:36"
+            },
+            {
+              "label" : "IPv4 地址",
+              "value" : "192.168.1.3"
+            },
+            {
+              "label" : "IPv6 地址",
+              "value" : "2409:8a34:462:1c90:1085:6ab:cdd3:4c19, 2409:8a34:462:1c90:d9ca:acf5:959f:cec9"
+            },
+            {
+              "label" : "IPv4 配置",
+              "value" : "DHCP"
+            },
+            {
+              "label" : "IPv6 配置",
+              "value" : "自动"
+            },
+            {
+              "label" : "路由器",
+              "value" : "192.168.1.1"
+            },
+            {
+              "label" : "子网掩码",
+              "value" : "255.255.255.0"
+            },
+            {
+              "label" : "DNS",
+              "value" : "192.168.1.1, fe80::1"
+            },
+            {
+              "label" : "接口状态",
+              "value" : "已启用"
+            },
+            {
+              "label" : "介质子类型",
+              "value" : "自动选择"
+            }
+          ],
+          "title" : "接口  ·  Wi-Fi"
+        },
+        {
+          "items" : [
+            {
+              "hint" : "系统隐私保护隐藏了 SSID，可在「系统设置 → 隐私与安全性」中授权后重试",
+              "label" : "当前网络",
+              "value" : "<redacted>"
+            },
+            {
+              "label" : "信道 / 频段",
+              "value" : "48 (5GHz, 160MHz)"
+            },
+            {
+              "label" : "PHY 模式",
+              "value" : "802.11ac"
+            },
+            {
+              "label" : "信号 / 噪声",
+              "value" : "-61 dBm / 59 dBm"
+            },
+            {
+              "label" : "加密方式",
+              "value" : "WPA2 个人级"
+            },
+            {
+              "label" : "周边网络数",
+              "value" : "13"
+            },
+            {
+              "label" : "接口",
+              "value" : "en1"
+            }
+          ],
+          "title" : "无线局域网  ·  en1"
+        },
+        {
+          "items" : [
+            {
+              "label" : "BSD 设备",
+              "value" : "utun0"
+            },
+            {
+              "label" : "IPv6",
+              "value" : "fe80::d36c:b7ca:41a6:2ad6"
+            },
+            {
+              "label" : "状态",
+              "value" : "已启用"
+            }
+          ],
+          "title" : "其他接口  ·  utun0"
+        },
+        {
+          "items" : [
+            {
+              "label" : "BSD 设备",
+              "value" : "utun1"
+            },
+            {
+              "label" : "IPv6",
+              "value" : "fe80::b761:aa68:c6b5:3cfa"
+            },
+            {
+              "label" : "状态",
+              "value" : "已启用"
+            }
+          ],
+          "title" : "其他接口  ·  utun1"
+        },
+        {
+          "items" : [
+            {
+              "label" : "BSD 设备",
+              "value" : "utun2"
+            },
+            {
+              "label" : "IPv6",
+              "value" : "fe80::cbf7:a87d:44be:7ff0"
+            },
+            {
+              "label" : "状态",
+              "value" : "已启用"
+            }
+          ],
+          "title" : "其他接口  ·  utun2"
+        },
+        {
+          "items" : [
+            {
+              "label" : "BSD 设备",
+              "value" : "utun3"
+            },
+            {
+              "label" : "IPv6",
+              "value" : "fe80::ce81:b1c:bd2c:69e"
+            },
+            {
+              "label" : "状态",
+              "value" : "已启用"
+            }
+          ],
+          "title" : "其他接口  ·  utun3"
+        },
+        {
+          "items" : [
+            {
+              "label" : "BSD 设备",
+              "value" : "lo0"
+            },
+            {
+              "label" : "IPv4",
+              "value" : "127.0.0.1"
+            },
+            {
+              "label" : "IPv6",
+              "value" : "::1, fe80::1"
+            },
+            {
+              "label" : "状态",
+              "value" : "已启用"
+            },
+            {
+              "label" : "回环接口",
+              "value" : "是"
+            }
+          ],
+          "title" : "其他接口  ·  lo0"
+        }
+      ],
+      "symbol" : "network",
+      "title" : "网络"
+    },
+    {
+      "id" : "system",
+      "sections" : [
+        {
+          "items" : [
+            {
+              "label" : "系统版本",
+              "value" : "macOS 26.3 (25D125)"
+            },
+            {
+              "label" : "系统内部版本",
+              "value" : "25D125"
+            },
+            {
+              "label" : "Darwin 内核",
+              "value" : "Darwin Kernel Version 25.3.0: Wed Jan 28 20:53:14 PST 2026; root:xnu-12377.81.4~5/RELEASE_X86_64"
+            },
+            {
+              "label" : "内核架构",
+              "value" : "x86_64"
+            },
+            {
+              "label" : "字节序",
+              "value" : "小端 (Little Endian)"
+            },
+            {
+              "label" : "主机名称",
+              "value" : "huangjikundembp.bbrouter"
+            },
+            {
+              "label" : "登录用户",
+              "value" : "huangjinkun"
+            },
+            {
+              "label" : "时区",
+              "value" : "中国标准时间"
+            },
+            {
+              "label" : "首选语言",
+              "value" : "zh-Hans-CN"
+            },
+            {
+              "label" : "系统运行时间",
+              "value" : "4 小时 8 分"
+            },
+            {
+              "label" : "采集时间",
+              "value" : "2026-11-11 12:58:45"
+            }
+          ],
+          "title" : "系统信息"
+        },
+        {
+          "items" : [
+            {
+              "label" : "系统完整性保护 (SIP)",
+              "value" : "已关闭"
+            },
+            {
+              "label" : "安全虚拟机",
+              "value" : "已启用"
+            },
+            {
+              "label" : "启动模式",
+              "value" : "正常模式"
+            },
+            {
+              "label" : "启动卷",
+              "value" : "macOS Tahoe"
+            },
+            {
+              "label" : "应用标识",
+              "value" : "独立可执行文件"
+            }
+          ],
+          "title" : "安全与启动"
+        },
+        {
+          "items" : [
+            {
+              "hint" : "由 Foundation 的 ProcessInfo.thermalState 提供",
+              "label" : "热压力状态",
+              "value" : "正常"
+            },
+            {
+              "label" : "电池温度",
+              "value" : "20.0 °C"
+            },
+            {
+              "hint" : "底层 SMC 传感器需内核驱动配合，本工具不越权读取",
+              "label" : "CPU / 风扇转速",
+              "value" : "—"
+            },
+            {
+              "label" : "当前供电",
+              "value" : "交流电源"
+            }
+          ],
+          "title" : "传感器与功耗"
+        }
+      ],
+      "symbol" : "gearshape",
+      "title" : "系统与安全"
+    }
+  ],
+  "identity" : {
+    "confidence" : "机型品牌高 / 物理品牌低",
+    "evidence" : [
+      "SMBIOS Type 1 系统制造商：Acidanthera",
+      "SMBIOS Type 0 BIOS 厂商：Acidanthera",
+      "SMBIOS 产品名：MacBookPro16,2（MacBook Pro）",
+      "机型标识：MacBookPro16,2  MacBook Pro 16 英寸（2019，Intel）",
+      "处理器：AMD Ryzen™ 7 4800H",
+      "物理整机线索：电池制造商 ASUS（型号 A32-K55）",
+      "显示器件：HM7606 / VE198"
+    ],
+    "firmwareBrandKey" : "opencore",
+    "firmwareName" : "OpenCore / Acidanthera",
+    "formFactor" : "笔记本电脑",
+    "isGenuineApple" : false,
+    "modelIdentifier" : "MacBookPro16,2",
+    "note" : "系统 SMBIOS 由 Acidanthera / OpenCore 注入，模拟为 MacBook Pro（MacBookPro16,2）；处理器为 AMD Ryzen™ 7 4800H，并非 Apple 原厂硬件。物理整机品牌仅由器件线索推断，指向 华硕 ASUS，置信度低。",
+    "physicalBrandKey" : "asus",
+    "physicalBrandName" : "华硕 ASUS",
+    "primaryBrandKey" : "apple",
+    "primaryBrandName" : "Apple",
+    "productName" : "MacBook Pro（MacBookPro16,2，模拟机型）",
+    "releaseHint" : "MacBook Pro 16 英寸（2019，Intel）"
+  },
+  "machineModel" : "MacBookPro16,2",
+  "osVersion" : "macOS 26.3 (25D125)",
+  "subtitle" : "AMD Ryzen™ 7 4800H  ·  17.18 GB 内存  ·  macOS 26.3 (25D125)",
+  "vitals" : [
+    {
+      "detail" : "16 逻辑核心",
+      "ratio" : 0.17955112219451372,
+      "title" : "CPU 使用率",
+      "value" : "18.0 %"
+    },
+    {
+      "detail" : "13.81 GB / 17.18 GB",
+      "ratio" : 0.8036832809448242,
+      "title" : "内存占用",
+      "value" : "80.4 %"
+    },
+    {
+      "detail" : "剩余 69.92 GB",
+      "ratio" : 0.6585437243819036,
+      "title" : "启动盘占用",
+      "value" : "65.9 %"
+    },
+    {
+      "detail" : "循环 362 次",
+      "ratio" : 1,
+      "title" : "电池电量",
+      "value" : "100.0 %"
+    }
+  ]
+}
